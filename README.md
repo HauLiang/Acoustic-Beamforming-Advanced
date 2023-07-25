@@ -1,6 +1,7 @@
 # Acoustic-Beamforming-Methods-Advanced
 
 A scan-frequency demo for acoustic imaging, including the following methods:
+> The previous version can be found at https://github.com/HauLiang/Acoustic-Beamforming-Methods.
 
 * DAS: <br>
 > [Van Veen, Barry D and Buckley, Kevin M, "Beamforming: A versatile approach to spatial filtering", *IEEE assp magazine*, 1988.](https://ieeexplore.ieee.org/abstract/document/665/ "https://ieeexplore.ieee.org/abstract/document/665/")
@@ -21,7 +22,12 @@ A scan-frequency demo for acoustic imaging, including the following methods:
 * FFT-FISTA: <br>
 > [Lylloff, Oliver and Fern{\'a}ndez-Grande, Efr{\'e}n and Agerkvist, Finn and Hald, J{\o}rgen and Tiana Roig, Elisabet and Andersen, Martin S, "Improving the efficiency of deconvolution algorithms for sound source localization", *The journal of the acoustical society of America*, 2015.](https://doi.org/10.1121/1.4922516 "https://doi.org/10.1121/1.4922516")
 * ...
-  
-The previous version can be found at https://github.com/HauLiang/Acoustic-Beamforming-Methods.
+
+If you want to know more about acoustic imaging, please refer to the following paper:
+
+* Fundamentals of acoustic beamforming
+> [de Santana, Leandro, "Fundamentals of Acoustic Beamforming", *Design and Operation of Aeroacoustic Wind Tunnel Tests for Group and Air Transport*, 2017.](https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-287/EN-AVT-287-04.pdf "https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-287/EN-AVT-287-04.pdf")
+* A review of acoustic imaging methods:
+> [Merino-Martínez, Roberto and Sijtsma, Pieter and Snellen, Mirjam and Ahlefeldt, Thomas and Antoni, Jerome and Bahr, Christopher J and Blacodon, Daniel and Ernst, Daniel and Finez, Arthur and Funke, Stefan and others, "A review of acoustic imaging methods using phased microphone arrays", *CEAS Aeronautical Journal*, 2019.](https://link.springer.com/article/10.1007/s13272-019-00383-4 "https://link.springer.com/article/10.1007/s13272-019-00383-4")
 
 @ All rights are reserved by the authors.
