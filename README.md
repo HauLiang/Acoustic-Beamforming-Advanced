@@ -1,4 +1,4 @@
-# Acoustic-Beamforming-Methods-Advanced
+# Acoustic-Beamforming-Advanced
 
 MATLAB code for the baseline of "Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming".
 
