@@ -28,7 +28,7 @@ This scan-frequency demo for acoustic imaging includes the following methods:
 * FFT-NNLS: <br>
 > [Ehrenfried, Klaus and Koop, Lars, "Comparison of iterative deconvolution algorithms for the mapping of acoustic sources", *AIAA journal*, 2007.](https://arc.aiaa.org/doi/abs/10.2514/1.26320?journalCode=aiaaj "https://arc.aiaa.org/doi/abs/10.2514/1.26320?journalCode=aiaaj")
 * FFT-FISTA: <br>
-> [Lylloff, Oliver and Fern{\'a}ndez-Grande, Efr{\'e}n and Agerkvist, Finn and Hald, J{\o}rgen and Tiana Roig, Elisabet and Andersen, Martin S, "Improving the efficiency of deconvolution algorithms for sound source localization", *The journal of the acoustical society of America*, 2015.](https://doi.org/10.1121/1.4922516 "https://doi.org/10.1121/1.4922516")
+> [Lylloff, Oliver and Fernández-Grande, Efrén and Agerkvist, Finn and Hald, Jørgen and Tiana Roig, Elisabet and Andersen, Martin S, "Improving the efficiency of deconvolution algorithms for sound source localization", *The journal of the acoustical society of America*, 2015.](https://doi.org/10.1121/1.4922516 "https://doi.org/10.1121/1.4922516")
 * ...
 
 If you want to know more about acoustic imaging, please refer to the following paper:
