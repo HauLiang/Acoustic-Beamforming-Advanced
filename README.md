@@ -7,6 +7,9 @@ If you use the code, please cite our paper:
 
 Also, the code for "Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming" is available at https://github.com/JoaquinChou/DAMAS_FISTA_Net.
 
+## Preparation
+- MATLAB >= R2022a
+
 ## Getting Started
 This scan-frequency demo for acoustic imaging includes the following methods:
 > The previous version can be found at https://github.com/HauLiang/Acoustic-Beamforming-Methods.
