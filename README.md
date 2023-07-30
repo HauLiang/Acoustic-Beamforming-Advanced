@@ -36,7 +36,7 @@ This scan-frequency demo for acoustic imaging includes the following methods:
 
 If you want to know more about acoustic imaging, please refer to the following paper:
 
-* Fundamentals of acoustic beamforming
+* Fundamentals of acoustic beamforming:
 > [de Santana, Leandro, "Fundamentals of Acoustic Beamforming", *Design and Operation of Aeroacoustic Wind Tunnel Tests for Group and Air Transport*, 2017.](https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-287/EN-AVT-287-04.pdf "https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-287/EN-AVT-287-04.pdf")
 * A review of acoustic imaging methods:
 > [Merino-Martínez, Roberto and Sijtsma, Pieter and Snellen, Mirjam and Ahlefeldt, Thomas and Antoni, Jerome and Bahr, Christopher J and Blacodon, Daniel and Ernst, Daniel and Finez, Arthur and Funke, Stefan and others, "A review of acoustic imaging methods using phased microphone arrays", *CEAS Aeronautical Journal*, 2019.](https://link.springer.com/article/10.1007/s13272-019-00383-4 "https://link.springer.com/article/10.1007/s13272-019-00383-4")
