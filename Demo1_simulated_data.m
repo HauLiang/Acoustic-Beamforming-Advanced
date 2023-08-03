@@ -22,7 +22,7 @@
 % -- https://github.com/HauLiang/Acoustic-Beamforming-Methods
 %
 % Author: Hao Liang 
-% Last modified by: 23/07/31
+% Last modified by: 23/08/03
 %
 
 close all; clear; clc;
@@ -33,7 +33,7 @@ close all; clear; clc;
 % Add path
 addpath('.\Algorithm')
 addpath('.\Toolbox')
-addpath('.\Prepocess')
+addpath('.\Preprocess')
 addpath('.\MicArray')
 
 % Set scanning plane
