@@ -26,12 +26,13 @@ This scan-frequency demo for acoustic imaging includes the following methods:
 > [Liang, Hao and Zhou, Guanxing and Tu, Xiaotong and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue, "Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming", *arXiv preprint arXiv:2306.10772*, 2023.](https://arxiv.org/abs/2306.10772 "https://arxiv.org/abs/2306.10772")
 * CLEAN-PSF: <br>
 > [Högbom, JA, "Aperture synthesis with a non-regular distribution of interferometer baselines", *Astronomy and Astrophysics Supplement Series*, 1974.](http://adsabs.harvard.edu/pdf/1974A&AS...15..417H "http://adsabs.harvard.edu/pdf/1974A&AS...15..417H") 
-* CLEAN-SC: <br> 
+* CLEAN-SC: <br>
 > [Sijtsma, Pieter, "CLEAN based on spatial source coherence", *International journal of aeroacoustics*, 2007.](https://journals.sagepub.com/doi/abs/10.1260/147547207783359459 "https://journals.sagepub.com/doi/abs/10.1260/147547207783359459")
 * FFT-NNLS: <br>
 > [Ehrenfried, Klaus and Koop, Lars, "Comparison of iterative deconvolution algorithms for the mapping of acoustic sources", *AIAA journal*, 2007.](https://arc.aiaa.org/doi/abs/10.2514/1.26320?journalCode=aiaaj "https://arc.aiaa.org/doi/abs/10.2514/1.26320?journalCode=aiaaj")
-* FFT-FISTA: <br>
-> [Lylloff, Oliver and Fernández-Grande, Efrén and Agerkvist, Finn and Hald, Jørgen and Tiana Roig, Elisabet and Andersen, Martin S, "Improving the efficiency of deconvolution algorithms for sound source localization", *The journal of the acoustical society of America*, 2015.](https://doi.org/10.1121/1.4922516 "https://doi.org/10.1121/1.4922516")
+* FFT-DFISTA: <br>
+> [Ding, Xinghao and Liang, Hao and Jakobsson, Andreas and Tu, Xiaotong and Huang, Yue. "High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map", *Signal Processing*, 2022.](https://www.sciencedirect.com/science/article/pii/S016516842100414X "https://www.sciencedirect.com/science/article/pii/S016516842100414X")
+
 * ...
 
 If you want to know more about acoustic imaging, please refer to the following paper:
