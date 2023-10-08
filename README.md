@@ -14,6 +14,7 @@ Also, the code for "Learning an Interpretable End-to-End Network for Real-Time A
 This scan-frequency demo for acoustic imaging includes the following methods:
 > The previous version can be found at https://github.com/HauLiang/Acoustic-Beamforming-Methods.
 
+As for the model-based method:
 * DAS: <br>
 > [Van Veen, Barry D and Buckley, Kevin M, "Beamforming: A versatile approach to spatial filtering", *IEEE assp magazine*, 1988.](https://ieeexplore.ieee.org/abstract/document/665/ "https://ieeexplore.ieee.org/abstract/document/665/")
 * MUSIC: <br>
