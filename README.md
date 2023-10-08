@@ -33,7 +33,9 @@ This scan-frequency demo for acoustic imaging includes the following methods:
 * FFT-DFISTA: <br>
 > [Ding, Xinghao and Liang, Hao and Jakobsson, Andreas and Tu, Xiaotong and Huang, Yue. "High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map", *Signal Processing*, 2022.](https://www.sciencedirect.com/science/article/pii/S016516842100414X "https://www.sciencedirect.com/science/article/pii/S016516842100414X")
 
-* ...
+As for the deep network-based methods:
+* Acoustic-Net: <br>
+> [Zhou, Guanxing and Liang, Hao and Ding, Xinghao and Huang, Yue and Tu, Xiaotong and Abbas, Saqlain. "Acoustic-Net: A Novel Neural Network for Sound Localization and Quantification", in *19th Asia-Pacific Vibration Conference (APVC2021)*, 2021.](https://arxiv.org/abs/2203.16988 "https://arxiv.org/abs/2203.16988")
 
 If you want to know more about acoustic imaging, please refer to the following paper:
 
