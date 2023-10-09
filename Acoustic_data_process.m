@@ -108,11 +108,12 @@ elseif (strcmp(beamform_type, 'FFT-NNLS'))
     maxIter = 1000;    % number of iterations
     [X, Y, B] = FFT_NNLS(CSM, g, w, freqs, [scan_x scan_y], scan_resolution, tol, maxIter);
     
-elseif (strcmp(beamform_type, 'FFT-FISTA'))
-    % Implementation of FFT-FISTA algorithm
+elseif (strcmp(beamform_type, 'FFT-DFISTA'))
+    % Implementation of FFT-DFISTA algorithm
+    lambda = 1e-3;    % penalty parameter
     tol = 1e-4;       % tolerance of convergence criterion
-    maxIter = 5000;   % number of iterations
-    [X, Y, B] = FFT_FISTA(CSM, g, w, freqs, [scan_x scan_y], scan_resolution, tol, maxIter);
+    maxIter = 1000;   % number of iterations
+    [X, Y, B] = FFT_DFISTA(CSM, g, w, freqs, [scan_x scan_y], scan_resolution, lambda, tol, maxIter);
 
 elseif (strcmp(beamform_type, 'DAMAS-FISTA'))
     % Implementation of DAMAS-FISTA algorithm
