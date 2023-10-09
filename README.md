@@ -11,7 +11,7 @@ Also, the code for "Learning an Interpretable End-to-End Network for Real-Time A
 - MATLAB >= R2022a
 
 ## Getting Started
-This scan-frequency demo for acoustic imaging includes the following methods:
+This scan-frequency demo for acoustic imaging mainly includes the model-based acoustic beamforming methods.
 > The previous version can be found at https://github.com/HauLiang/Acoustic-Beamforming-Methods.
 
 As for the model-based methods:
@@ -38,7 +38,7 @@ As for the deep network-based method:
 * Acoustic-Net are available at https://github.com/JoaquinChou/Acousitc-Net: <br>
 > [Zhou, Guanxing and Liang, Hao and Ding, Xinghao and Huang, Yue and Tu, Xiaotong and Abbas, Saqlain. "Acoustic-Net: A Novel Neural Network for Sound Localization and Quantification", in *19th Asia-Pacific Vibration Conference (APVC2021)*, 2021.](https://arxiv.org/abs/2203.16988 "https://arxiv.org/abs/2203.16988")
 
-If you want to know more about acoustic imaging, please refer to the following paper:
+If you want to know more about acoustic imaging, please refer to the following papers:
 
 * Fundamentals of acoustic beamforming:
 > [de Santana, Leandro, "Fundamentals of Acoustic Beamforming", *Design and Operation of Aeroacoustic Wind Tunnel Tests for Group and Air Transport*, 2017.](https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-287/EN-AVT-287-04.pdf "https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-AVT-287/EN-AVT-287-04.pdf")
