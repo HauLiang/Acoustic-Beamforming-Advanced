@@ -2,7 +2,7 @@ function [r, grad] = nnls(b, x, fft_psf)
 % Nonnegative least squares objective function
 %
 % Input:
-%   b : beamforming map 
+%   b: beamforming map 
 %   x: 	beamforming map after deconvolution
 %   fft_PSF:  point spread function (PSF) after Fourier transform
 %
