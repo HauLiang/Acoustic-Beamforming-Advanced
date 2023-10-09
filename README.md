@@ -11,7 +11,7 @@ Also, the code for "Learning an Interpretable End-to-End Network for Real-Time A
 - MATLAB >= R2022a
 
 ## Getting Started
-This scan-frequency demo for acoustic imaging mainly includes the model-based acoustic beamforming methods.
+This scan-frequency demo for acoustic imaging mainly contains the model-based acoustic beamforming methods.
 > The previous version can be found at https://github.com/HauLiang/Acoustic-Beamforming-Methods.
 
 As for the model-based methods:
