@@ -15,7 +15,6 @@ function dfista_gradient = dfista_gradient(fft_psf,b,x,D,lambda)
 % Residual vector
 r = fftshift(ifft2(fft2(x).*fft_psf)) - b;
 
-
 % Calculate gradient
 dfista_gradient = fftshift(ifft2(fft2(r).*fft_psf))+lambda*(D.'*D)*x;
 
