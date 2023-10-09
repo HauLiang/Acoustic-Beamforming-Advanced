@@ -117,7 +117,7 @@ tic;
 % [X, Y, B] = DAS(CSM, w, freqs, [scan_x scan_y], scan_resolution);
 
 % Implementation of Fast-DAS algorithm
-% [X, Y, B] = Fast_DAS(CSM, w, freqs, [scan_x scan_y], scan_resolution);
+[X, Y, B] = Fast_DAS(CSM, w, freqs, [scan_x scan_y], scan_resolution);
 
 % Implementation of MUSIC algorithm
 % nSources = 2;     % number of sources
@@ -149,10 +149,10 @@ tic;
 % [X, Y, B] = FFT_NNLS(CSM, g, w, freqs, [scan_x scan_y], scan_resolution, tol, maxIter);
 
 % Implementation of FFT-DFISTA algorithm
-lambda = 1e-3;    % penalty parameter
-tol = 1e-4;       % tolerance of convergence criterion
-maxIter = 1000;   % number of iterations
-[X, Y, B] = FFT_DFISTA(CSM, g, w, freqs, [scan_x scan_y], scan_resolution, lambda, tol, maxIter);
+% lambda = 1e-3;    % penalty parameter
+% tol = 1e-4;       % tolerance of convergence criterion
+% maxIter = 1000;   % number of iterations
+% [X, Y, B] = FFT_DFISTA(CSM, g, w, freqs, [scan_x scan_y], scan_resolution, lambda, tol, maxIter);
 
 % Implementation of DAMAS-FISTA algorithm
 % tol = 1e-4;       % tolerance of convergence criterion
