@@ -19,10 +19,10 @@
 % -- CLEAN-PSF
 % -- CLEAN-SC
 % -- FFT-NNLS 
-% -- FFT-FISTA
+% -- FFT-DFISTA
 %
 % Author: Hao Liang 
-% Last modified by: 23/08/03
+% Last modified by: 23/10/09
 %
 
 
