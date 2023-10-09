@@ -31,6 +31,8 @@ As for the model-based methods:
 > [Sijtsma, Pieter, "CLEAN based on spatial source coherence", *International journal of aeroacoustics*, 2007.](https://journals.sagepub.com/doi/abs/10.1260/147547207783359459 "https://journals.sagepub.com/doi/abs/10.1260/147547207783359459")
 * FFT-NNLS: <br>
 > [Ehrenfried, Klaus and Koop, Lars, "Comparison of iterative deconvolution algorithms for the mapping of acoustic sources", *AIAA journal*, 2007.](https://arc.aiaa.org/doi/abs/10.2514/1.26320?journalCode=aiaaj "https://arc.aiaa.org/doi/abs/10.2514/1.26320?journalCode=aiaaj")
+* FFT-FISTA are available at https://github.com/dtu-act/EMBED: <br>
+> [Lylloff, Oliver and Fernández-Grande, Efrén and Agerkvist, Finn and Hald, Jørgen and Tiana Roig, Elisabet and Andersen, Martin S. "Improving the efficiency of deconvolution algorithms for sound source localization". *The journal of the acoustical society of America*, 2015.](http://dx.doi.org/10.1121/1.4922516 "http://dx.doi.org/10.1121/1.4922516")
 * FFT-DFISTA: <br>
 > [Ding, Xinghao and Liang, Hao and Jakobsson, Andreas and Tu, Xiaotong and Huang, Yue. "High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map", *Signal Processing*, 2022.](https://www.sciencedirect.com/science/article/pii/S016516842100414X "https://www.sciencedirect.com/science/article/pii/S016516842100414X")
 
