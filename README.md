@@ -24,7 +24,7 @@ As for the model-based methods:
 * DAMAS2: <br>
 > [Dougherty, Robert, "Extensions of DAMAS and benefits and limitations of deconvolution in beamforming", *11th AIAA/CEAS aeroacoustics conference*, 2005.](https://doi.org/10.2514/6.2005-2961 "https://doi.org/10.2514/6.2005-2961")
 * DAMAS-FISTA: <br>
-> [Liang, Hao and Zhou, Guanxing and Tu, Xiaotong and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue, "Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming", *arXiv preprint arXiv:2306.10772*, 2023.](https://arxiv.org/abs/2306.10772 "https://arxiv.org/abs/2306.10772")
+> [Liang, Hao and Zhou, Guanxing and Tu, Xiaotong and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue, "Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming", *The Journal of Sound and Vibration*, 2024.](https://doi.org/10.1016/j.jsv.2024.118620 "https://doi.org/10.1016/j.jsv.2024.118620")
 * CLEAN-PSF: <br>
 > [Högbom, JA, "Aperture synthesis with a non-regular distribution of interferometer baselines", *Astronomy and Astrophysics Supplement Series*, 1974.](http://adsabs.harvard.edu/pdf/1974A&AS...15..417H "http://adsabs.harvard.edu/pdf/1974A&AS...15..417H") 
 * CLEAN-SC: <br>
